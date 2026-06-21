@@ -10,6 +10,8 @@
 http://10.30.30.30:8088/AND.FLIX.HD/tracks-v1a1/mono.m3u8?token=29b42a7e512b7c4dc12b00a7e73e163074bae1f5-ba33115c510c5d7a95e3196a0c2797c9-1782059526-1782048726
 #EXTINF:-1 group-title="Fifa World Cup",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",BBC
+https://34366344.ccjdgvtt.pages.dev/1782066279/e3ff453e2633446ba4b8b6b5c2877031/gtLFy55TAZik5xj5RTof4CAAqQnb7CTaYJIW8oP0uZs/bbcone-uk.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",T Sports
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",United8 1 HD
