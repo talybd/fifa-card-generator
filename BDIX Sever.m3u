@@ -7,7 +7,7 @@
 # Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
 # Website: https://fastiptvbackup.edgeone.app
 #EXTINF:-1 group-title="Fifa World Cup",United8 2 HD
-http://10.30.30.30:8088/AND.FLIX.HD/tracks-v1a1/mono.m3u8?token=29b42a7e512b7c4dc12b00a7e73e163074bae1f5-ba33115c510c5d7a95e3196a0c2797c9-1782059526-1782048726
+http://10.30.30.30:8088/AND.FLIX.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",BBC
@@ -111,7 +111,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
-http://10.30.30.30:8088/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=0b442b3901e6db4528a2816ff659a2be29cc8053-37a5f73311d4e3b439df73130a0dc76f-1782059639-1782048839
+http://10.30.30.30:8088/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla",Zee Bangla HD
 http://10.30.30.30:8088/ZEE.BANGLA.HD/tracks-v1a1/mono.m3u8?token=3453a0c2bb78c9bbfed0656270657dfc727468f3-10dd9c0404f68950e5b4c166853dab10-1782059673-1782048873
 #EXTINF:-1 group-title="Indian Bangla",Colors Bangla HD
