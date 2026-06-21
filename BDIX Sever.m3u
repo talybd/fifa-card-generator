@@ -95,4 +95,4 @@ http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla",ATN NEWS
-http://10.30.30.30:8088/ATN.NEWS.HD/tracks-v1a1/mono.m3u8
+http://10.30.30.30:8088/ATN.NEWS.HD/tracks-v1a1/mono.m3u8?token=4cc40532fabdd921dd2af714cfc2c927408577eb-bbecf79c77d4063b5f4e3f89f6548226-1782055464-1782044664
