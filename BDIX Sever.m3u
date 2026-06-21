@@ -173,6 +173,16 @@ http://10.30.30.30:8088/STAR.GOLD.SEL.HD/tracks-v1a1/mono.m3u8?token=bc1983bea8a
 http://10.30.30.30:8088/ZING.MUSIC/tracks-v1a1/mono.m3u8?token=f0c0285f3ce4148b653b9528ecdf5f58050bb25f-736e4ebdc40acf2fd5f603b374fc6db0-1782060856-1782050056
 #EXTINF:-1 group-title="Hindi Moives",& Xplore
 http://redforce.live:8082/XPLOR.HD/tracks-v1a1/mono.m3u8?token=00f8b322327220b424b98b8b5db9e07e6f00ef4f-48cc429b381243c0c50f5e45a5d6e859-1782061764-1782050964
+#EXTINF:-1 group-title="Hindi Moives",Movies Now
+http://redforce.live:8082/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8?token=7ffa7c8f28cadbc9af225ce6890f73ac481ed74c-17028852d2ebde349be7210a260420e6-1782061804-1782051004
+#EXTINF:-1 group-title="Hindi Moives",MNX
+http://redforce.live:8082/MNX.HD/tracks-v1a1/mono.m3u8?token=65f45d05578492424981d37895371922fe7492db-a7775c7ec4bcfed28ebe165701c6d1a2-1782061965-1782051165
+#EXTINF:-1 group-title="Hindi Moives",AXN
+http://redforce.live:8082/AXN.HD/tracks-v1a1/mono.m3u8?token=bfd1c227fc04d9e35a0b4cd2ba5c3b62dde8383a-1d0f55aa0efb6e1e6b110eba06537e42-1782062003-1782051203
+
+
+
+
 
 #EXTINF:-1 group-title="Music",ZOOM
 http://10.30.30.30:8088/ZOOM.MUSIC/tracks-v1a1/mono.m3u8?token=0e915e53796df4b6d034a61bcb319bf9e1dbfb42-80d57dfd456d9229c6d62e237cd454ae-1782060882-1782050082
