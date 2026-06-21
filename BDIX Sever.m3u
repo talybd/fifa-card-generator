@@ -180,6 +180,10 @@ http://10.30.30.30:8088/ZEE.CINEMA.HD/tracks-v1a1/mono.m3u8?token=0199bf499b92c7
 http://10.30.30.30:8088/STAR.GOLD.SEL.HD/tracks-v1a1/mono.m3u8?token=bc1983bea8aaf646d5287b1b5d2833794b9f2cec-757dedef867611ba4ead83f6b72bf4d8-1782060735-1782049935
 #EXTINF:-1 group-title="Hindi Moives",Zee Action
 http://10.30.30.30:8088/ZING.MUSIC/tracks-v1a1/mono.m3u8?token=f0c0285f3ce4148b653b9528ecdf5f58050bb25f-736e4ebdc40acf2fd5f603b374fc6db0-1782060856-1782050056
+#EXTINF:-1 group-title="Hindi Moives",B4U
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/1080p/index.m3u8
+
+
 #EXTINF:-1 group-title="Hindi Moives",& Xplore
 http://redforce.live:8082/XPLOR.HD/tracks-v1a1/mono.m3u8?token=00f8b322327220b424b98b8b5db9e07e6f00ef4f-48cc429b381243c0c50f5e45a5d6e859-1782061764-1782050964
 #EXTINF:-1 group-title="Hindi Moives",Movies Now
@@ -188,8 +192,8 @@ http://redforce.live:8082/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8?token=7ffa7c8f28ca
 http://redforce.live:8082/MNX.HD/tracks-v1a1/mono.m3u8?token=65f45d05578492424981d37895371922fe7492db-a7775c7ec4bcfed28ebe165701c6d1a2-1782061965-1782051165
 #EXTINF:-1 group-title="Hindi Moives",AXN
 http://redforce.live:8082/AXN.HD/tracks-v1a1/mono.m3u8?token=bfd1c227fc04d9e35a0b4cd2ba5c3b62dde8383a-1d0f55aa0efb6e1e6b110eba06537e42-1782062003-1782051203
-
-
+#EXTINF:-1 group-title="Hindi Moives",Goldmine
+https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
 
 
 
