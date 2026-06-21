@@ -112,6 +112,7 @@ http://10.30.30.30:8088/EAKHON.TV.HD/tracks-v1a1/mono.m3u8?token=01d2a03a1f06200
 #EXTINF:-1 group-title="Bangla",chanel I
 http://10.30.30.30:8088/CHANNEL.I.HD/tracks-v1a1/mono.m3u8?token=2732eae82737b0d9681ed4d8e3d57cdefb8125d1-df5bc1f8a4a305d96afb97fd30fcd5bd-1782058923-1782048123
 #EXTINF:-1 group-title="Bangla",chanel 24
+http://murgi.live:8083/channel24/index.m3u8?token=5f3a14ce7eaa34f9b4506ee36232ddd1e5c44786-620e6bfe7ad97526c43ff79cbbdd37e8-1782060342-1782049542
 http://10.30.30.30:8088/CHANNEL.24.HD/tracks-a1/mono.m3u8?token=610537422dc2b487a2cdb1945fdb57e5eb91cfcd-3ee023ba5c67fe6828b2efe8865b90de-1782058873-1782048073
 #EXTINF:-1 group-title="Bangla",Bijoy TV
 http://10.30.30.30:8088/BIJOY.TV.HD/tracks-v1a1/mono.m3u8?token=4fdaacaf433882e78db42012e81e20a61225e971-dc93c70e83dd8ece0e7d3e2b45e2c85a-1782058808-1782048008
@@ -154,3 +155,19 @@ http://10.30.30.30:8088/ZEE.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=837b389f83
 http://10.30.30.30:8088/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=584bd0034dafd7d1c9fae3766b6972041b9466e8-185028a8b51008e4b26b75ad10bd46ec-1782059788-1782048988
 
 
+
+
+#EXTINF:-1 group-title="Sports", A Sports
+http://10.30.30.30:8088/A.SPORTS.HD_KSB/tracks-v1a1/mono.m3u8?token=73a6193c521c511f3a2ddb4e550d9cd9715e7fa7-cc0da8dc28bfa27d59758615e15723a8-1782060156-1782049356
+#EXTINF:-1 group-title="Sports",Euro Sports
+http://10.30.30.30:8088/EUROSPORTS.HD/tracks-v1a1/mono.m3u8?token=421f299064eddab605bb93d12a82e08997c41211-b44cad081542dea4fbedd4267803ea34-1782060193-1782049393
+#EXTINF:-1 group-title="Sports",Fast Sports
+http://10.30.30.30:8088/FAST.SPORTS.HD/tracks-v1a1/mono.m3u8?token=b45436ae5eada338f6ad54644a750550576e0b79-d72a58bab361a74828a1b60b0bbc94d2-1782060217-1782049417
+#EXTINF:-1 group-title="Sports",Fighter
+http://10.30.30.30:8088/FIGHTERS.HD/tracks-v1a1/mono.m3u8?token=f5a1d0da8edf0f8e1f47fe0ed8753ab590396480-7bf1a1200dc751fda120508b5650cb00-1782060239-1782049439
+#EXTINF:-1 group-title="Sports",Sony 1
+http://10.30.30.30:8088/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=a47be03265009d7e6a522052e3e307c3d10534b9-66a63acf8295cce6c07980fc3265cbe6-1782060261-1782049461
+#EXTINF:-1 group-title="Sports",Sony 2
+http://10.30.30.30:8088/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=8595b84fe45ac4ac99fe8dd5b35d52cd0a1c058e-8f0e0f81df752d62fb54d196ea095246-1782060283-1782049483
+
+http://10.30.30.30:8088/SONY.SPORTS.3/tracks-v1a1/mono.m3u8?token=27aac5fb0c38802ec0fd581e05ba0c4f12b8a7a0-b7f00986370dbc3da0900e3355bbbaff-1782060300-1782049500
