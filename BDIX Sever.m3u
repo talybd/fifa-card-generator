@@ -91,3 +91,8 @@ https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
 #EXTINF:-1 group-title="Bangla",BTV
 http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla",ATN BANGLA
+http://10.30.30.30:8088/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla",ATN NEWS
+http://10.30.30.30:8088/ATN.NEWS.HD/tracks-v1a1/mono.m3u8
