@@ -49,7 +49,7 @@ http://10.30.30.30:8088/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=140fcf8af59c1e
 #EXTINF:-1 group-title="Bangla",ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=2202800.m3u8
 #EXTINF:-1 group-title="Bangla",Bangla TV
-http://10.30.30.30:8088/BANGLA.TV.HD/tracks-v1a1/mono.m3u8?token=76d36dc74bf620e242ebe78b5ee76ac4798c7f98-0c9f1d9f2cc7c25bea17e729a4b980f1-1782058733-1782047933
+https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 #EXTINF:-1 group-title="Bangla",BanglaVission
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangla",Boisakhi
@@ -76,7 +76,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 http://10.30.30.30:8088/CHANNEL.24.HD/tracks-a1/mono.m3u8?token=610537422dc2b487a2cdb1945fdb57e5eb91cfcd-3ee023ba5c67fe6828b2efe8865b90de-1782058873-1782048073
 #EXTINF:-1 group-title="Bangla",Bijoy TV
-http://10.30.30.30:8088/BIJOY.TV.HD/tracks-v1a1/mono.m3u8?token=4fdaacaf433882e78db42012e81e20a61225e971-dc93c70e83dd8ece0e7d3e2b45e2c85a-1782058808-1782048008
+https://sm-monirul.top/toffee/play/bijoytv.m3u8
 #EXTINF:-1 group-title="Bangla",G TV
 http://10.30.30.30:8088/GAZI.TV.HD/tracks-v1a1/mono.m3u8?token=c621fcc6b0f8bf4081ac9c3cd573c42b9c187da6-1eb900fbf60ef9672ea8772318f081d1-1782059923-1782049123
 #EXTINF:-1 group-title="Bangla",Independent
@@ -91,8 +91,10 @@ http://10.30.30.30:8088/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=8616323612a0eb
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=2407200.m3u8
 #EXTINF:-1 group-title="Bangla", N TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
+#EXTINF:-1 group-title="Bangla", N TV
+https://sm-monirul.top/toffee/play/n_tv.m3u8
 #EXTINF:-1 group-title="Bangla", Asian TV
-http://redforce.live:8082/ASIAN.TV.HD/tracks-v1a1/mono.m3u8?token=4fea838a3026ca24444e59dfc4997cea0902feac-8368495b23a4a8fbc14ec11064554ad1-1782061132-1782050332
+https://sm-monirul.top/toffee/play/asian_tv.m3u8
 #EXTINF:-1 group-title="Bangla", Global TV
 http://redforce.live:8082/Global.TV.HD/tracks-v1a1/mono.m3u8?token=7bc03da9020aeda1bc598e4b71585472010ebd64-157958ffc918f4e310a698142979493c-1782061177-1782050377
 #EXTINF:-1 group-title="Bangla", Star News
@@ -111,11 +113,17 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
-http://10.30.30.30:8088/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8
+https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
+https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/198.ts
 #EXTINF:-1 group-title="Indian Bangla",Zee Bangla HD
-http://10.30.30.30:8088/ZEE.BANGLA.HD/tracks-v1a1/mono.m3u8?token=3453a0c2bb78c9bbfed0656270657dfc727468f3-10dd9c0404f68950e5b4c166853dab10-1782059673-1782048873
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla 
+https://sm-monirul.top/toffee/play/zee_bangla.m3u8
 #EXTINF:-1 group-title="Indian Bangla",Colors Bangla HD
-http://10.30.30.30:8088/COLORS.BANGLA.HD/tracks-v1/mono.m3u8?token=2541b822fcc55dc1d98ee0fcfe20e6345449c6a7-5e08cf4709e839771493c43176f19296-1782059810-1782049010
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 group-title="Indian Bangla",SUN Bangla HD
 http://10.30.30.30:8088/SUN.BANGLA.HD/tracks-v1/mono.m3u8?token=5f917991947276e39a9e099ca51e57b95ed90ef4-7ae84a50e005f2c10431f05814d4a7ae-1782059697-1782048897
 #EXTINF:-1 group-title="Indian Bangla",Enter10 Bangla HD
@@ -179,7 +187,7 @@ http://10.30.30.30:8088/ANT.PICTURS.HD/tracks-v1a1/mono.m3u8?token=de852a922621f
 #EXTINF:-1 group-title="Hindi Moives",Colors Cinplex HD
 http://10.30.30.30:8088/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8?token=0b1710e932fe78493a28361303dfed827b3c29a3-4e1de88c951dc7c4171d8629c3f66e99-1782060579-1782049779
 #EXTINF:-1 group-title="Hindi Moives",Sony Max HD
-http://10.30.30.30:8088/SONY.MAX.HD/tracks-v1a1/mono.m3u8?token=bf8cffb844bb562aad4bfa0b1290ac83d8569247-c81e8aec56cd940fa8d1c3716e847f77-1782060653-1782049853
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max&e=.m3u8
 #EXTINF:-1 group-title="Hindi Moives",Star GOld HD
 http://10.30.30.30:8088/STAR.GOLD.HD/tracks-v1a1/mono.m3u8?token=0b7241d291c253876cbe75c3d213d5edf903426a-5f953c5c007e4d79aee13afa27351cc3-1782060693-1782049893
 #EXTINF:-1 group-title="Hindi Moives",Zee Cinema HD
