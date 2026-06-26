@@ -13,6 +13,12 @@ http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/T_SPORTS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",United8 2 HD
 http://10.30.30.30:8088/UNITE8_SPORTS_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 xui-id="408" tvg-id="" tvg-name="BD: T SPORTS" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfEBVegCfklaif0lS6fUknyi424_8bq4PlgQpAQ21hDwg.png",BD: T SPORTS
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9qQOp-6WhJcg7pez3Udu4jg
+#EXTINF:-1 xui-id="409" tvg-id="" tvg-name="BD: T SPORTS HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfEBVegCfklaif0lS6fUknyi424_8bq4PlgQpAQ21hDwg.png",BD: T SPORTS HD
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9pgz0uZ-ZF2sdSJhfMz1vas
+#EXTINF:-1 xui-id="419" tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSccPyj5lThSlwMqNzbDvbtepoYB8yWg3coyshCg-x9V8_w.png",PK: PTV SPORTS
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9okG6D7spnUmIVOixVujXIY
 #EXTINF:-1 group-title="Fifa World Cup",United8 1 HD
 http://cdn.moviemazic.xyz:8083/unite8-sports-2/index.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",T Sports Ayna
