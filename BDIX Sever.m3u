@@ -1,10 +1,5 @@
 #EXTM3U
-#PLAYLIST: FIFA BDIX
-#EXTENC: UTF-8
 
-# Playlist Name: FIFA BDIX
-# Last Update: 05:09 PM 17-06-2026
-# Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
 # Website: https://fastiptvbackup.edgeone.app
 #EXTINF:-1 group-title="Fifa World Cup",United8 1HD
 http://192.168.91.8/streams/118/index.m3u8
