@@ -223,7 +223,8 @@ http://10.30.30.30:8088/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8?token=ade4824b560
 http://10.30.30.30:8088/ZEE.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=837b389f8312dc0289f3c7ca369cab6e6f37e6a1-3454223e6126ce05a864b74a4afb998a-1782059723-1782048923
 #EXTINF:-1 group-title="Indian Bangla",Colors Bangla Cinema
 http://10.30.30.30:8088/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=584bd0034dafd7d1c9fae3766b6972041b9466e8-185028a8b51008e4b26b75ad10bd46ec-1782059788-1782048988
-
+#EXTINF:-1 group-title="Indian Bangla",Khusbu bangla
+http://103.175.73.12:8080/live/375/375_0.m3u8
 
 
 #EXTINF:-1 group-title="Sports", A Sports
@@ -264,15 +265,24 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 group-title="Hindi",Colors HD
 http://103.175.73.12:8080/live/258/258_0.m3u8
-
+#EXTINF:-1 group-title="Hindi",Monoranjan
+http://103.175.73.12:8080/live/345/345_0.m3u8
 #EXTINF:-1 group-title="Hindi",Colors HD
 http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 group-title="Hindi",Colors HD
 http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 group-title="Hindi",Colors HD
 http://103.175.73.12:8080/live/274/274_0.m3u8
-
 #EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/347/347_0.m3u8
+#EXTINF:-1 group-title="Hindi",Colors HD
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/348/348_0.m3u8
+#EXTINF:-1 group-title="Hindi",Colors HD
+http://103.175.73.12:8080/live/352/352_0.m3u8
+#EXTINF:-1 group-title="Hindi",shemarao josh
+http://103.175.73.12:8080/live/362/362_0.m3u8
+
 http://10.30.30.30:8088/COLORS.HD/tracks-v1a1/mono.m3u8?token=2f7c834e36e1743eb9edb57aa7eba1741db8e0d4-121984bfb062704bd0421558ce9ff662-1782060607-1782049807
 #EXTINF:-1 group-title="Hindi",Star Bharat HD
 http://10.30.30.30:8088/STAR.BHARAT.HD/tracks-v1a1/mono.m3u8?token=ce62f5cb9b51db151d9521ba8959af944139aad4-41e6df03ff09a4a4603134add4f7b952-1782060672-1782049872
@@ -330,7 +340,8 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 http://103.175.73.12:8080/live/178/178_0.m3u8
 #EXTINF:-1 group-title="Music",PTC Music
 http://103.175.73.12:8080/live/181/181_0.m3u8
-
+#EXTINF:-1 group-title="Music",Balle
+http://103.175.73.12:8080/live/354/354_0.m3u8
 
 #EXTINF:-1 group-title="Cartoon",NICK
 http://redforce.live:8082/NICK/tracks-v1a1/mono.m3u8?token=f5e38e4b638642baa9eea2e83f2ffc030309c7fe-9506e0bff88c6d08c4e826e943555414-1782061497-1782050697
