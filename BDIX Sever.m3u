@@ -7,6 +7,15 @@
 # Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
 # Website: https://fastiptvbackup.edgeone.app
 
+#EXTINF:-1 group-title="Fifa World Cup", Somoy TV
+http://10.101.101.101:8080/live/channel1/index.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",sOMOY tv
+http://10.101.101.101:8080/live/channel3/index.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",sOMOY tv
+http://10.101.101.101:8080/live/channel2/index.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",sOMOY tv
+http://10.101.101.101:8080/live/channel4/index.m3u8
+
 # Website: https://fastiptvbackup.edgeone.app
 #EXTINF:-1 group-title="Fifa World Cup",United8 1HD
 http://192.168.91.8/streams/118/index.m3u8
