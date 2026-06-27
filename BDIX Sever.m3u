@@ -38,8 +38,16 @@ https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="Fifa World Cup", T Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",PTV
-http://44.44.44.6/stream/hls/stream.m3u8
+#EXTINF:-1 group-title="Fifa World Cup", Arabic Sports HD
+https://we.smarop.store/spoos1_720/index.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",Fox Sport Fifa
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",Bein Sports 1 Max Arabic
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1 group-title="Fifa World Cup",TPV Sport
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",Bein Sports Direct
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 
 
