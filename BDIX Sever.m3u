@@ -20,6 +20,12 @@ http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/T_SPORTS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",United8 2 HD
 http://10.30.30.30:8088/UNITE8_SPORTS_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",Bioscope+
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",Toffee
+https://sports.abdullahroman276.workers.dev/live/roman368/01726686368/459.m3u8
+#EXTINF:-1 group-title="Fifa World Cup",i Screen
+https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
 #EXTINF:-1 xui-id="408" tvg-id="" tvg-name="BD: T SPORTS" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfEBVegCfklaif0lS6fUknyi424_8bq4PlgQpAQ21hDwg.png",BD: T SPORTS
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9qQOp-6WhJcg7pez3Udu4jg
 #EXTINF:-1 xui-id="409" tvg-id="" tvg-name="BD: T SPORTS HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfEBVegCfklaif0lS6fUknyi424_8bq4PlgQpAQ21hDwg.png",BD: T SPORTS HD
