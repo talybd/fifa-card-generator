@@ -26,12 +26,8 @@ https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/in
 https://sports.abdullahroman276.workers.dev/live/roman368/01726686368/459.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",i Screen
 https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
-#EXTINF:-1 xui-id="408" tvg-id="" tvg-name="BD: T SPORTS" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfEBVegCfklaif0lS6fUknyi424_8bq4PlgQpAQ21hDwg.png",BD: T SPORTS
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9qQOp-6WhJcg7pez3Udu4jg
-#EXTINF:-1 xui-id="409" tvg-id="" tvg-name="BD: T SPORTS HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfEBVegCfklaif0lS6fUknyi424_8bq4PlgQpAQ21hDwg.png",BD: T SPORTS HD
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9pgz0uZ-ZF2sdSJhfMz1vas
-#EXTINF:-1 xui-id="419" tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSccPyj5lThSlwMqNzbDvbtepoYB8yWg3coyshCg-x9V8_w.png",PK: PTV SPORTS
-http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9okG6D7spnUmIVOixVujXIY
+#EXTINF:-1 group-title="Fifa World Cup",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",United8 1 HD
 http://cdn.moviemazic.xyz:8083/unite8-sports-2/index.m3u8
 #EXTINF:-1 group-title="Fifa World Cup",T Sports Ayna
@@ -209,12 +205,27 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
-https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
-https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Indian Bangla",ABP ANANDA
+https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Colors Bangla HD
+https://trs1.aynaott.com/colorsbangla/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Zee Bangla HD
+https://trs1.aynaott.com/zeebangla/index.m3u8
+#EXTINF:-1 group-title="Hindi", Colors HD
+https://trs1.aynaott.com/colorshd/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla",Sangeet Bangla (576p)
+https://trs1.aynaott.com/SangeetBangla/index.m3u8
+#EXTINF:-1 group-title="Hindi", &TV HD (720p)
+https://trs1.aynaott.com/andtvhd/index.m3u8
+#EXTINF:-1 group-title="Hindi",&pictures (720p)
+https://trs1.aynaott.com/andpictureshd/index.m3u8
+#EXTINF:-1 group-title="Hindi", Star Plus
+https://trs1.aynaott.com/starplushd/index.m3u8
+#EXTINF:-1 group-title="Hindi", Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 
+#EXTINF:-1 group-title="Hindi",Zee TV HD
+http://41.205.93.154/ZEE-TV/index.m3u8
 #EXTINF:-1 group-title="Hindi",Colors HD
 http://103.175.73.12:8080/live/318/318_0.m3u
 #EXTINF:-1 group-title="Hindi",Colors HD
