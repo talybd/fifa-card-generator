@@ -7,60 +7,58 @@
 # Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
 # Website: https://fastiptvbackup.edgeone.app
 
-#EXTINF:-1 group-title="Fifa World Cup", Somoy TV
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi", Somoy TV
 http://10.101.101.101:8080/live/channel1/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",T Sports
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",T Sports
 http://10.101.101.101:8080/live/channel3/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",Gazi TV
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",Gazi TV
 http://10.101.101.101:8080/live/channel2/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",PTV
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",PTV
 http://10.101.101.101:8080/live/channel4/index.m3u8
 
-#EXTINF:-1 group-title="Fifa World Cup",United8 1HD
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",United8 1HD
 http://192.168.91.8/streams/118/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",United8 1HD
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",United8 1HD
 http://192.168.91.8/streams/119/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",BTV
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",BTV
 http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",T Sports
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",T Sports
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",T Sports
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",T Sports
 http://10.30.30.30:8088/T_SPORTS_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",United8 2 HD
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",United8 2 HD
 http://10.30.30.30:8088/UNITE8_SPORTS_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",Bioscope+
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",Bioscope+
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",Toffee
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",Toffee
 https://sports.abdullahroman276.workers.dev/live/roman368/01726686368/459.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",i Screen
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",i Screen
 https://tahmidx.cinemoja2.workers.dev/live/FIFA-2026-4/0/master_2000.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",Zee Bangla Sonar
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",United8 1 HD
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",United8 1 HD
 http://cdn.moviemazic.xyz:8083/unite8-sports-2/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",T Sports Ayna
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",T Sports Ayna
 https://trs1.aynaott.com/tsports/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",CCTV SPORTS
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",CCTV SPORTS
 https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",Fox HD
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",Fox HD
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup", T Sports
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi", T Sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fifa World Cup", Arabic Sports HD
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi", Arabic Sports HD
 https://we.smarop.store/spoos1_720/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",Fox Sport Fifa
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",Fox Sport Fifa
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",Bein Sports 1 Max Arabic
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",Bein Sports 1 Max Arabic
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-#EXTINF:-1 group-title="Fifa World Cup",TPV Sport
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",TPV Sport
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-#EXTINF:-1 group-title="Fifa World Cup",Bein Sports Direct
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi",Bein Sports Direct
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 group-title="Fifa World Cup", Cricbuzz HD
+#EXTINF:-1 group-title="World Cup"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/FIFA_World_Cup_Canada_Mexi", Cricbuzz HD
 http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
-
-
 
 
 
