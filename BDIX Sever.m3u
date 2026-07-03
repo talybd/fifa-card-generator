@@ -15,12 +15,13 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/sst/0/master_1500.m3u8?h
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Unknown
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",FIFA Live (Server 2)
-https://cricxtv.fun/isceen.php?file=https%3A%2F%2Ftc-sg.rockstreamer.com%2Fv1%2F019ed91616121ea540a8171c8e801f%2F019ed92ac80315fc600b1796d4ad8b%2Ftc_sg_1_1080p.m3u8&is_playlist=1
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", T
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports HD
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/756462
 https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Bioscope+
 https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_1.m3u8
-
 
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Korra City
