@@ -11,15 +11,16 @@
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",FIFA Live (Server 1)
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/sst/0/master_1500.m3u8?hdntl=Expires=1783129192~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclC9PB1Xakwb9imTbouhZ2u5Ds84oYSWo2ybKMIZCc8t39jjQw6tdWXne5OwlT68xYlgffsffxAutpkcMOzokskM
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",BEIN 4K
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Unknown
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",FIFA Live (Server 2)
 https://cricxtv.fun/isceen.php?file=https%3A%2F%2Ftc-sg.rockstreamer.com%2Fv1%2F019ed91616121ea540a8171c8e801f%2F019ed92ac80315fc600b1796d4ad8b%2Ftc_sg_1_1080p.m3u8&is_playlist=1
 https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Bioscope+
 https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_1.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",BEIN 4K
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Unknown
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",4K
 https://lstv-web.pages.dev/api/proxy?url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F451%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1783135892-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-eb157e5f4b04e4c26818e6b6e5bbebf7&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9pZnJhbWUucnVtc3BvcnQxMC5saXZlLyIsIlVzZXItQWdlbnQiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IEspIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzYifQ%3D%3D
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy TV
