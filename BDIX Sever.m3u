@@ -120,7 +120,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
 
 
-#BDIX
+
 #EXTINF:-1 group-title=“BDIX SERVER” tvg-logo=“https://bdixserver.com/wp-content/uploads/2024/11/cropped-BDIX-3.png”,BTV
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 #EXTINF:-1 group-title=“BDIX SERVER” tvg-logo=“https://bdixserver.com/wp-content/uploads/2024/11/cropped-BDIX-3.png”,Jamuna Tv
