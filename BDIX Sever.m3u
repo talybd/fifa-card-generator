@@ -140,316 +140,317 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",--Live(FOOTBALL)--
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title=“BDIX”, BTV
+#EXTINF:-1 group-title="BDIX" tvg-logo=" ", BTV
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Jamuna Tv
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Jamuna Tv
 http://180.94.28.28:8097//Jamuna-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, MAASRANGA TV HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, MAASRANGA TV HD
 http://180.94.28.28:8097//Maasranga-tv/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Nagorik TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Nagorik TV
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Somoy TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Somoy TV
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Gazi TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Gazi TV
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Ekattur
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Ekattur
 http://180.94.28.28:8097//EKATTOR-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Channel i
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Channel i
 http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Channel 24
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Channel 24
 http://180.94.28.28:8097//CHANNEL-24/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Channel 9
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Channel 9
 http://180.94.28.28:8097//CHANNEL-9/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Deepto  TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Deepto  TV
 http://180.94.28.28:8097//DEEPTO-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, DBC News
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, DBC News
 http://180.94.28.28:8097//DBC-NEWS/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Independent TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Independent TV
 http://180.94.28.28:8097//Independent-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Rtv
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Rtv
 http://180.94.28.28:8097//RTV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Bangla
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Star Jalsha
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Star Jalsha
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Jalsha Movies
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Jalsha Movies
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Enter 10 Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Enter 10 Bangla
 http://180.94.28.28:8097//ENTER-10-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Colors Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Colors Bangla
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Color Bangla Cinema
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Color Bangla Cinema
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sun Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sun Bangla
 http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Star Sports 1
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Star Sports 1
 http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Star Sports 2
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Star Sports 2
 http://180.94.28.28:8097//Star-Sports-2/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, StarSports Select 1
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, StarSports Select 1
 http://180.94.28.28:8097//Star-Sports-Select-1/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Star Sports Select 2
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Star Sports Select 2
 http://180.94.28.28:8097//star-Sports-Select-2/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Star Sports 3
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Star Sports 3
 http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sony Ten 1 HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sony Ten 1 HD
 http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sony Ten 2 HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sony Ten 2 HD
 http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sony Ten 3 HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sony Ten 3 HD
 http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sony Ten 5 HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sony Ten 5 HD
 http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, PTV Sports
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, PTV Sports
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, A Sports
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, A Sports
 http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, WILLOW_SPORTS
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, WILLOW_SPORTS
 http://180.94.28.28:8097//WILLOW-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, BEIN-SPORTS-1
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, BEIN-SPORTS-1
 http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, BEIN-SPORTS-2
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, BEIN-SPORTS-2
 http://180.94.28.28:8097//BEIN-SPORTS-2/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sony Max HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sony Max HD
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Cinema HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Cinema HD
 http://180.94.28.28:8097//ZEE-CINEMA/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, MOVIES-NOW
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, MOVIES-NOW
 http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Discovery_kids
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Discovery_kids
 http://180.94.28.28:8097//DISCOVERY-KIDS/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Duronto-TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Duronto-TV
 http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, Discovery
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Discovery
 http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, National Geography
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, National Geography
 http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 group-title=“BDIX”, uneit8
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, uneit8
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
-#EXTINF:-1 group-title=“BDIX”, bioscope+
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, bioscope+
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Bangla Chinena
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Bangla Chinena
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
-#EXTINF:-1 group-title=“BDIX”, জলসা Movie HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, জলসা Movie HD
 http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sun Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sun Bangla
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/126098
-#EXTINF:-1 group-title=“BDIX”, Colors Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Colors Bangla
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
-#EXTINF:-1 group-title=“BDIX”, Colors Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Colors Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 group-title=“BDIX”, Colours Bangla Chinema
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Colours Bangla Chinema
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sony Aath
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sony Aath
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
-#EXTINF:-1 group-title=“BDIX”, Ente10 Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Ente10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 group-title=“BDIX”, Channel 1
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Me TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Me TV
 http://103.175.242.10:8080/metv/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, BTV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sangsad
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sangsad
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Jamuna Tv
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Jamuna Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-#EXTINF:-1 group-title=“BDIX”, Channel 24
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, EKTTOR tv
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, EKTTOR tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, INDEPENDENT TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, ATN NEWS
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Banglavison
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Banglavison
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Maasranga
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Maasranga
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Deepto Tv
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Deepto Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Channel i
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, NTV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, News 24
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, SA TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, SA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Star News
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, DBC News
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Channel 9
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Ananda TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Ananda TV
 https://sm-monirul.top/toffee/play/anandatv.m3u8
-#EXTINF:-1 group-title=“BDIX”, R tv
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, R tv
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108833
-#EXTINF:-1 group-title=“BDIX”, Bijoy TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Bijoy TV
 https://sm-monirul.top/toffee/play/bijoytv.m3u8
-#EXTINF:-1 group-title=“BDIX”, Desh TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Desh TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Jago News 24
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, Movie Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Bangla TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Bangla TV
 https://sm-monirul.top/toffee/play/bangla_tv.m3u8
-#EXTINF:-1 group-title=“BDIX”, T Sports HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, T Sports HD
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/756462
-#EXTINF:-1 group-title=“BDIX”, Channel S
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Channel S
 https://sm-monirul.top/toffee/play/channel_s.m3u8
-#EXTINF:-1 group-title=“BDIX”, Desh TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Desh TV
 https://sm-monirul.top/toffee/play/desh_tv.m3u8
-#EXTINF:-1 group-title=“BDIX”, Ekhon TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Ekhon TV
 https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
-#EXTINF:-1 group-title=“BDIX”, SONY TEN Cricket
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, SONY TEN Cricket
 https://sm-monirul.top/toffee/play/ten_cricket.m3u8
-#EXTINF:-1 group-title=“BDIX”, Cartoon Network
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Cartoon Network
 https://sm-monirul.top/toffee/play/cartoon_network_sd.m3u8
-#EXTINF:-1 group-title=“BDIX”, Pogo
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Pogo
 https://sm-monirul.top/toffee/play/pogo_sd.m3u8
-#EXTINF:-1 group-title=“BDIX”, SONY YAY VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, SONY YAY VIP
 https://sm-monirul.top/toffee/play/sonyyay.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Bangla VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Bangla VIP
 https://sm-monirul.top/toffee/play/zee_bangla.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Anmol
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Anmol
 https://sm-monirul.top/toffee/play/zee_anmol.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sony Aat VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sony Aat VIP
 https://sm-monirul.top/toffee/play/sonyaath.m3u8
-#EXTINF:-1 group-title=“BDIX”, SONY ENTERTAINMENT TELEVISION HD VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, SONY ENTERTAINMENT TELEVISION HD VIP
 https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
-#EXTINF:-1 group-title=“BDIX”, B4U Music VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, B4U Music VIP
 https://sm-monirul.top/toffee/play/b4u_music.m3u8
-#EXTINF:-1 group-title=“BDIX”, SONY SAB HD VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, SONY SAB HD VIP
 https://sm-monirul.top/toffee/play/sonysab_hd.m3u8
-#EXTINF:-1 group-title=“BDIX”, SONY MAX HD VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, SONY MAX HD VIP
 https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Bangla Cinema
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Bangla Cinema
 https://sm-monirul.top/toffee/play/zee_bangla_cinema.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Bollywood
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Bollywood
 https://sm-monirul.top/toffee/play/zee_bollywood.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Action
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Action
 https://sm-monirul.top/toffee/play/zee_action.m3u8
-#EXTINF:-1 group-title=“BDIX”, SONY MAX VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, SONY MAX VIP
 https://sm-monirul.top/toffee/play/sony_max.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Cafe
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Cafe
 https://sm-monirul.top/toffee/play/zee_cafe_hd.m3u8
-#EXTINF:-1 group-title=“BDIX”, B4U Movies VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, B4U Movies VIP
 https://sm-monirul.top/toffee/play/b4u_movies.m3u8
-#EXTINF:-1 group-title=“BDIX”, SONY MAX 2 VIP
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, SONY MAX 2 VIP
 https://sm-monirul.top/toffee/play/sonymax_2.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Cinema HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Cinema HD
 https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8
-#EXTINF:-1 group-title=“BDIX”, TLC
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, TLC
 https://sm-monirul.top/toffee/play/tlc_sd.m3u8
-#EXTINF:-1 group-title=“BDIX”, Animal Planet
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Animal Planet
 https://sm-monirul.top/toffee/play/animal_planet_sd.m3u8
-#EXTINF:-1 group-title=“BDIX”, Animal Planet HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Animal Planet HD
 https://sm-monirul.top/toffee/play/animal_planet_hd.m3u8
-#EXTINF:-1 group-title=“BDIX”, Discovery HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Discovery HD
 https://sm-monirul.top/toffee/play/discovery_hd.m3u8
-#EXTINF:-1 group-title=“BDIX”, Discovery
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Discovery
 https://sm-monirul.top/toffee/play/discovery_sd.m3u8
-#EXTINF:-1 group-title=“BDIX”, &TV HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, &TV HD
 https://sm-monirul.top/toffee/play/and_tv_hd.m3u8
-#EXTINF:-1 group-title=“BDIX”, & Pictures HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, & Pictures HD
 https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zoom
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Action
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 group-title=“BDIX”, 095. GOLDMINES
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, 095. GOLDMINES
 http://103.175.73.12:8080/live/53/master.m3u8
-#EXTINF:-1 group-title=“BDIX”, 096. Goldmines Movies
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, 096. Goldmines Movies
 http://103.175.73.12:8080/live/51/master.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sci-fi
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sci-fi
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, MNX-HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, MNX-HD
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, 0. Toon Goggles
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, 0. Toon Goggles
 https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
-#EXTINF:-1 group-title=“BDIX”, Toffee {premium}
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Toffee {premium}
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
-#EXTINF:-1 group-title=“BDIX”, S Live Central B
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, S Live Central B
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1 group-title=“BDIX”, Colours Bangla Chinema
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Colours Bangla Chinema
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/271038.ts
-#EXTINF:-1 group-title=“BDIX”, Euro TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Euro TV
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-#EXTINF:-1 group-title=“BDIX”, STAR SPORTS 1 JADOO
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, STAR SPORTS 1 JADOO
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/9397.ts
-#EXTINF:-1 group-title=“BDIX”, STAR SPORTS 2
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, STAR SPORTS 2
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/9398.ts
-#EXTINF:-1 group-title=“BDIX”, Sony Aath
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sony Aath
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
-#EXTINF:-1 group-title=“BDIX”, Football World Cup 2026
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Football World Cup 2026
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Football World Cup 2026
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Football World Cup 2026
 http://66.102.126.10:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, ATN Bangla UK
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, NTV UK
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, Green TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 group-title=“BDIX”, Star News
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-#EXTINF:-1 group-title=“BDIX”, Jamuna TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Islamic TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8
-#EXTINF:-1 group-title=“BDIX”, Makkah TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Makkah TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, God TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, God TV
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
-#EXTINF:-1 group-title=“BDIX”, Arihant TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 group-title=“BDIX”, G-Serise
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title=“BDIX”, Amar Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, Dhoom Music
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Dhoom Music
 http://103.175.73.12:8080/live/378/378_0.m3u8
-#EXTINF:-1 group-title=“BDIX”, ABP Ananda
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, ABP Ananda
 https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee 24 Ghanta
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-#EXTINF:-1 group-title=“BDIX”, News18 Bangla News
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, News18 Bangla News
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, R Plus News
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=“BDIX”, Kolkata TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, TV9 Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, Zee Anmol TV
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1 group-title=“BDIX”, Big Magic
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 group-title=“BDIX”, The Movie Club
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, The Movie Club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:-1 group-title=“BDIX”, Sheemaroo Bollywood
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title=“BDIX”, Manoranjan Prime
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Manoranjan Prime
 http://103.175.73.12:8080/live/345/345_0.m3u8
-#EXTINF:-1 group-title=“BDIX”, Manoranjan Grend
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Manoranjan Grend
 http://103.175.73.12:8080/live/19/19_0.m3u8
-#EXTINF:-1 group-title=“BDIX”, Star Sports 1 HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, DD Sports 2.0
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Discovery Bangla
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Discovery Bangla
 http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Nat Geo HD
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Nat Geo HD
 http://202.70.146.135:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title=“BDIX”, Wild Earth
+#EXTINF:-1 group-title=“BDIX” tvg-logo=“ “, Wild Earth
 https://wildearth-plex.amagi.tv/master.
+
+
+
+
+
 
 
 
