@@ -49,6 +49,10 @@ https://proxy1.livekhela.qzz.io/stream1/index.m3u8
 https://proxy1.livekhela.qzz.io/stream15/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Korra City
 https://bv.arcras.website/edging1_720/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",TPV Sport
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Caze TV Brazil
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",4K
 https://lstv-web.pages.dev/api/proxy?url=https%3A%2F%2Flivecdn-tc-iptv.rumsport10.live%2Flive_abr%2F451%2F720p%2Fchunks.m3u8%3Fis_vip%3Dfalse%26token%3D1783135892-Kv4cPTAAP5YTi-e873fd192b0c5829a26fe8ccc3eb070200f622ba-eb157e5f4b04e4c26818e6b6e5bbebf7&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9pZnJhbWUucnVtc3BvcnQxMC5saXZlLyIsIlVzZXItQWdlbnQiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IEspIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzYifQ%3D%3D
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy TV
@@ -113,8 +117,7 @@ https://we.smarop.store/spoos1_720/index.m3u8
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Bein Sports 1 Max Arabic
 http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",TPV Sport
-https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Bein Sports Direct
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", T Sports
