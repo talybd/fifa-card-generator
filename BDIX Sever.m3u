@@ -16,6 +16,11 @@ https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMj
 https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN4/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", ITV
 https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/ITV1/tracks-v1a1/mono.m3u8
+EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Central Sports S
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Fusball
+http://fastshare1.com/live/25711345/late8airline/742611.ts
+
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", BDIX United8 1HD
 http://192.168.91.8/streams/118/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", BDIX United8 1HD
@@ -30,7 +35,8 @@ http://10.30.30.30:8088/T_SPORTS_HD/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/UNITE8_SPORTS_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports HD
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
-
+EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Bein 4k
+https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", 8k
 https://proxy1.livekhela.qzz.io/stream9/2160p/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Unknown
