@@ -22,6 +22,12 @@ http://10.101.101.101:8080/live/channel1/index.m3u8
 http://10.101.101.101:8080/live/channel3/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports (WON FTP)
 http://10.101.101.101:8080/live/channel4/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports (WON FTP)
+http://103.102.27.173:84/tvfeed1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",BTV (WON FTP)
+http://103.102.27.173:84/tvfeed1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports (WON FTP)
+http://103.102.27.173:84/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",.
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", FOX 1 (RAW)
