@@ -14,7 +14,12 @@ https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.co
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Toffee  (All)
 https://hsb71.pages.dev/live.m3u8
-
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy TV (WON FTP)
+http://10.101.101.101:8080/live/channel1/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports (WON FTP)
+http://10.101.101.101:8080/live/channel3/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports (WON FTP)
+http://10.101.101.101:8080/live/channel4/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", FOX 1 (RAW)
 http://143.244.62.109/hrt2/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", BEIN 5 4K (RAW)
@@ -30,23 +35,7 @@ https://dmbgaz4xf6jyh.cloudfront.net/live-stream-mp/d239gifi3lv9ze/46a2fb025c374
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", FOX 1 (RAW)
 http://143.244.62.109/rts1/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", DAZAN
-#EXTVLCOPT:http-referrer=https://m3uworld4k.blogspot.com/
-https://gxqkdba3q70p.48552462.net:8443/hls/nessgjp115wr8.m3u8?s=o4Y5mJIP1C8lIRyqYVv1Lg&e=1783618275
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", RTE 2
-#EXTVLCOPT:http-referrer=https://m3uworld4k.blogspot.com/
-https://gxqkdba3q70p.48552462.net:8443/hls/ithh1xe7c01n2.m3u8?s=7UOdPc3aDuXBD-LJOGAt9w&e=1783618275
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Ttsn 4
-#EXTVLCOPT:http-referrer=https://m3uworld4k.blogspot.com/
-https://gxqkdba3q70p.48552462.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=G8ePeZK90ztAvgidvdnomg&e=1783618275
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Bein 1 Max
-https://gxqkdba3q70p.48552462.net:8443/hls/cd88is8arjavh.m3u8?s=RkO_08zr-Doqkd7nu-yetA&e=1783618276
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", sport tv 5
-https://4v72m4af45j3.48552462.net:8443/hls/o9mmstuhtgqjq.m3u8?s=1e0Z-uPisQKGaeShZfAyxg&e=1783618278
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",  LA 2
-https://gxqkdba3q70p.48552462.net:8443/hls/g8yy3cfv128h5.m3u8?s=yU2-8Y1coJUT3Zxb6BsKEA&e=1783618278
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Bein 1
-https://gxqkdba3q70p.48552462.net:8443/hls/cd88is8arjavh.m3u8?s=A4HdlIo0r0V6gKhD2nHdww&e=1783619344
+
 
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", FOX 1 (RAW)
@@ -100,10 +89,7 @@ https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.co
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Caze TV Brazil
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy TV
-http://10.101.101.101:8080/live/channel1/index.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports
-http://10.101.101.101:8080/live/channel3/index.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Gazi TV
 http://10.101.101.101:8080/live/channel2/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",FOX HD 
