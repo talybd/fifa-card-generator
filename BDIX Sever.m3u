@@ -9,13 +9,6 @@
 
 
 
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Bioscope+  (All)
-https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_1.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",Toffee  (All)
-https://toffee-fifa.sm-monirul.top/sm/toffee1.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Fancode(BD vs Zim)
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc_audio_7_0_20515102.mp4
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy TV (WON FTP)
 http://10.101.101.101:8080/live/channel1/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports (WON FTP)
@@ -50,6 +43,11 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809398.
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", FOX 1 (RAW)
 http://143.244.62.109/hrt2/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", DAZAN
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", 
+https://ua102.online24.pm:8443/1103/video.m3u8?token=350B326FB34F4B8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", BEIN 5 4K (RAW)
