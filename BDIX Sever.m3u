@@ -22,6 +22,8 @@ http://103.102.27.173:84/tvfeed1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports (WON FTP)
 http://103.102.27.173:84/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",TVRI
+http://157.15.187.3:25092/hls/49/49.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports
