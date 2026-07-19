@@ -23,6 +23,19 @@ http://103.102.27.173:84/tvfeed1002/tracks-v1a1/mono.m3u8
 http://103.102.27.173:84/tvfeed1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports (WON FTP)
 http://103.102.27.173:84/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy TV 
+http://103.114.11.37:8081/SOMOY-TV/index.fmp4.m3u8?token=hol
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy TV 2
+http://103.114.11.37:8081/SOMOY-TV/tracks-v1/index.fmp4.m3u8?token=hol
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports
+http://103.114.11.37:8081/T-Sports-HD/tracks-a1/index.fmp4.m3u8?token=hol
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports 2
+http://103.114.11.37:8081/T-Sports-BDIX/index.fmp4.m3u8?token=hol
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", BTV
+http://103.114.11.37:8081/BTV/index.fmp4.m3u8?token=hol
+
+
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", United8 1HD (BDIX)
 http://192.168.91.8/streams/118/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", United8 1HD (BDIX)
