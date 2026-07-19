@@ -10,16 +10,19 @@
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Bioscope+
 https://hls.diptom3ow.workers.dev/r/https%3A%2F%2Ffifa-stream-01.bioscopelive.com%2Fout%2Fv1%2F60e7608404004b1186261497b404630b%2Findex_2.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",TVRI
-http://157.15.187.3:25092/hls/49/49.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",TVRI 2
-http://157.15.187.3:25092/hls/63/63.m3u8
+
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy TV (WON FTP)
 http://10.101.101.101:8080/live/channel1/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports (WON FTP)
 http://10.101.101.101:8080/live/channel3/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports (WON FTP)
 http://10.101.101.101:8080/live/channel4/index.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports (WON FTP)
+http://103.102.27.173:84/tvfeed1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",BTV (WON FTP)
+http://103.102.27.173:84/tvfeed1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports (WON FTP)
+http://103.102.27.173:84/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", United8 1HD (BDIX)
 http://192.168.91.8/streams/118/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", United8 1HD (BDIX)
@@ -42,12 +45,7 @@ http://114.130.57.233:8080/bein1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 http://114.130.57.233:8080/T-sports-64/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Somoy (BDIX)
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports (WON FTP)
-http://103.102.27.173:84/tvfeed1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",BTV (WON FTP)
-http://103.102.27.173:84/tvfeed1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports (WON FTP)
-http://103.102.27.173:84/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", SOMOY-TV
 http://103.114.11.37:8081/SOMOY-TV-BDIX/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
@@ -150,7 +148,10 @@ http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
 http://103.114.11.37:8081/Discovery/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
 
 
-
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", TVRI
+http://157.15.187.3:25092/hls/49/49.m3u8
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", TVRI 2
+http://157.15.187.3:25092/hls/63/63.m3u8
 #EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/38039.ts
 
