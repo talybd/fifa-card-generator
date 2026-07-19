@@ -54,6 +54,71 @@ http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Channel 86
 http://157.15.187.3:25092/hls/86/86.m3u8
 
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/38039.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21812.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21823.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21824.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/59870.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3232.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/59887.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/59888.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3143.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/553262.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed]
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/1179998.ts
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/1179999.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/1179997.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/839.ts
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed5
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/840.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527497.ts
+
+#EXTINF:-1 group-title= "World Cup Raw Speed"tvg-logo="https://cup-hub.com/icons/WorldCup.png", Raw Speed
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/659439.ts
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",T Sports
 http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FIFA World Cup"tvg-logo="https://cup-hub.com/icons/WorldCup.png",PTV Sports
